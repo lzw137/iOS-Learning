@@ -19,8 +19,9 @@ by 魔笛GNR
 14. RAC学习
 15. OC/JS交互
 16. [外卖双列表+购物车(加入购物车动画)+导航渐变](https://github.com/ly918/TakeawayList-ShoppingCart)
-17. [导航栏下拉菜单]
+
 其他：
 1. [LYPhotoBrowser 网络/本地图片浏览器](https://github.com/ly918/LYPhotoBrowser)
 2. [LYWebViewController 类似微信网页浏览器](https://github.com/ly918/LYWebViewController)
 3. [GNRBLEManager 蓝牙的学习封装](https://github.com/ly918/GNRBLEManager)
+4. [小芳 类似1010小游戏 Swift](https://github.com/ly918/XiaoFang)
