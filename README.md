@@ -18,3 +18,4 @@ by 魔笛GNR
 13. CoreAnimation
 14. RAC学习
 15. OC/JS交互
+16. [蓝牙的封装](https://github.com/ly918/GNRBLEManager)
