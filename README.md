@@ -26,3 +26,5 @@ by 魔笛GNR
 4. [小芳 类似1010小游戏 Swift](https://gitee.com/misayaLv/XiaoFang)
 5. [外卖双列表+购物车(加入购物车动画)+导航渐变](https://github.com/ly918/TakeawayList-ShoppingCart)
 6. [GPUImage-Demo 滤镜美颜](https://github.com/ly918/GPUImage-Demo)
+7. [GNRActionSheet 优雅的选项弹层组件](https://github.com/ly918/GNRActionSheet)
+8. [GNRAlertController 优雅的弹窗组件](https://github.com/ly918/GNRAlertController)
